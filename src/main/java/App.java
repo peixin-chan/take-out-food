@@ -13,7 +13,7 @@ public class App {
     }
 
     public String bestCharge(List<String> inputs) {
-        //TODO: write code here
+
         String itemStr = getItemStr(inputs);
 
         String promotionStr = getSelectedPromotionStr(inputs);
